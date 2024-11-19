@@ -37,8 +37,8 @@ Este código oferece uma solução simples e prática para monitorar e otimizar 
 * Customização: Você pode alterar os valores dos aparelhos e o consumo diário para adaptá-los à sua casa ou realizar melhorias no código, como incluir mais fontes de energia renovável ou otimizar a lógica de sugestões.
 
 ## Alunos
-- RM 554869 Eric Yuji Ito
+* RM 554869 Eric Yuji Ito
   
-- RM 554638 Fabricio Bettarello
+* RM 554638 Fabricio Bettarello
 
-- RM 559155 Thamiris Almeida Soares Da Silva
+* RM 559155 Thamiris Almeida Soares Da Silva
