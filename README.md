@@ -38,5 +38,7 @@ Este código oferece uma solução simples e prática para monitorar e otimizar 
 
 ## Alunos
 - RM 554869 Eric Yuji Ito
--RM 554638 Fabricio Bettarello
--RM 559155 Thamiris Almeida Soares Da Silva
+  
+- RM 554638 Fabricio Bettarello
+
+- RM 559155 Thamiris Almeida Soares Da Silva
